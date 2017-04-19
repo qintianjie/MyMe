@@ -1,6 +1,7 @@
 package com.colorcc.myme;
 
 /**
+ * 图片定义
  * Created by Tianjie Qin on 2017/4/20.
  */
 
